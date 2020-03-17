@@ -1,0 +1,67 @@
+.wiki-container{
+	text-align: center;
+}
+
+header{
+    font-size:2.5em;
+    margin:3vh 0vh;
+    padding-bottom: 2vh;
+    border-bottom:2px solid black;
+}
+
+.inputField{
+	width:25vh;
+	border-radius: 0.8vh;
+}
+
+.btn{
+	background-color: #48C562;
+	border-radius: 0.8vh;
+	height: 3vh;
+	border: none;
+}
+
+.frameset{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.frames{
+
+	height: 53vh;
+	width: 1000px;
+	background-color: #A9EEF2;
+    text-align: left;
+    
+	
+
+}
+
+.heading{
+	height: 4.5vh;
+	background-color: #0F9AA3;
+	text-align: center;
+	font-weight: bolder;
+	font-size:2em;
+}
+
+.info-top{
+	height:48.4vh;
+	width: 21vh;
+	border: 1.5px solid black;
+	float: left;
+}
+
+.info-bottom{
+	height:48.4vh;
+	width: 83.74vh;
+	border: 1.5px solid black;
+	float: right;
+}
+.row{
+	
+	height:20vh;
+	width: 21vh;
+	border: 1.5px solid black;
+}

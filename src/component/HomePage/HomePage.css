@@ -1,0 +1,50 @@
+.wiki-container{
+	text-align: center;
+}
+
+header{
+    font-size:2.5em;
+    margin:3vh 0vh;
+    padding-bottom: 2vh;
+    border-bottom:2px solid black;
+}
+
+.inputField{
+	width:400px;
+	border-radius: 5px;
+}
+
+.btn{
+	background-color: #48C562;
+	border-radius: 5px;
+	height: 20px;
+	border: 0px;
+}
+
+.frameSet{
+
+	height: 500px;
+	width: 1000px;
+	background-color: #A9EEF2;
+	text-align: left;
+	
+
+}
+
+.header{
+	height: 35px;
+	background-color: #0F9AA3;
+}
+
+.info{
+	width: 200px;
+	height:465px;
+	border: 1.5px solid black;
+
+}
+.row{
+	
+	height:20vh;
+	width: 21vh;
+	border: 1.5px solid black;
+}
